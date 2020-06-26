@@ -107,8 +107,7 @@ QNA
 2. 게시글 수정에서 가격을 수정할 수 있게함
 3. 쇼핑몰 처럼 포인트로 결제.
 
-=============================
-#사용기술  1. spring boot   2.
+
 ==============================
 # HotThink 최종 완성 기능
 1. 회원가입 / 회원탈퇴
@@ -134,6 +133,22 @@ QNA
 -> 거래 후 판매자 평가 / 거래시 인증된 휴대폰으로 거래 정보 발송 / 완료시 문자 발송
 18. 회원 탈퇴시 user의 status 가 1 -> 0 으로 변경
 19. 회원정보 수정(pw/닉네임)
+
+
+# 사용 기술 
+-spring boot 
+-spring security
+-spring kafka
+-JPA(JPQL)
+-mySQL
+-AWS EC2
+-AWS RDS
+-iamport
+-coolSMS
+-mustache
+-HTML/CSS
+-bootstrap / JQUERY
+
 
 ![main](https://user-images.githubusercontent.com/39195377/85849144-63eb9a00-b7e5-11ea-9a27-7d9ad526424c.png)
 
