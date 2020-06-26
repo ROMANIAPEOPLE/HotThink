@@ -136,17 +136,17 @@ QNA
 
 
 # 사용 기술 
--spring boot 
--spring security
--spring kafka
--JPA(JPQL)
--mySQL
--AWS EC2
--AWS RDS
--iamport
--coolSMS
--mustache
--HTML/CSS
+-spring boot   
+-spring security  
+-spring kafka  
+-JPA(JPQL)  
+-mySQL  
+-AWS EC2  
+-AWS RDS  
+-iamport  
+-coolSMS  
+-mustache  
+-HTML/CSS  
 -bootstrap / JQUERY
 
 
